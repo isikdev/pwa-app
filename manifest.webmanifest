@@ -2,7 +2,7 @@
     "theme_color": "#f69435",
     "background_color": "#f69435",
     "display": "fullscreen",
-    "start_url": "https://isikdev.github.io/pwa-app/",
+    "start_url": "https://isikdev.github.io/pwa-app/index.html/",
     "name": "PWA App",
     "short_name": "PWA",
     "description": "PWA Test App",
